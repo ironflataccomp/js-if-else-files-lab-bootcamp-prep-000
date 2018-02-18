@@ -9,3 +9,5 @@ module.exports = { name, height
 ```javascript
 var name = "Susan"
 ```
+ `nodejs index.js`
+ 
